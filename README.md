@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Albani! 👋
 
-<!--
-**al-bani/al-bani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a web developer and know about C programming
 
-Here are some ideas to get you started:
+## 🛠 Skills
+C, PHP, Mysql, HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## if you want know me
+👩‍💻 I'm currently studying in Bandung National Institute of Technology
+
+🧠 I'm currently learning PHP OOP and Mysql
+
+🤔 I'm looking for help with about database
+
+😄 Pronouns he/him also you can call me bro
+
+⚡️ Fun fact i love a cat
