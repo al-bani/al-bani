@@ -16,3 +16,8 @@ C, PHP, Mysql, HTML
 😄 Pronouns he/him also you can call me bro
 
 ⚡️ Fun fact i love a cat
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=al-bani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=al-bani&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=al-bani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
