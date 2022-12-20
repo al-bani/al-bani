@@ -17,4 +17,4 @@ nice to meet you guys
 
 ⚡️ Fun fact i love a cat
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31lowy7e37nes4cct67nfqaiyw5i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31lowy7e37nes4cct67nfqaiyw5i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)]]
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lowy7e37nes4cct67nfqaiyw5i&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
