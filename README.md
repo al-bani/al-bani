@@ -10,7 +10,7 @@ Thank you for stalking me
 
 ## 🚀 if you want to know me
 👩‍💻 studying in Bandung National Institute of Technology<br>
-🧠 I'm currently learning PHP and Mysql<br>
+🧠 I'm currently learning Laravel<br>
 😄 Pronouns he/him<br>
 😋 I love Playing guitar<br>
 ⚡️ Fun fact i love a cat<br>
