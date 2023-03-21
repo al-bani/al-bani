@@ -10,8 +10,8 @@ Thank you for stalking me
 
 ## 🚀 if you want to know me
 👩‍💻 studying in Bandung National Institute of Technology<br>
-🧠 I'm currently learning Laravel<br>
-😄 Pronouns he/him<br>
+🧠 I'm currently learning How to be a Soldier of allah<br>
+😄 Pronouns jihadi<br>
 😋 I love Playing guitar<br>
 ⚡️ Fun fact i love a cat<br>
 
